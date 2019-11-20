@@ -1,6 +1,7 @@
 # iAnimeServer
 the server based on flask
 
+可以在dao文件夹中修改数据库信息
 DDL (MySQL)
 
 1.  
